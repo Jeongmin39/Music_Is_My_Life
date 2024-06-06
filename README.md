@@ -50,11 +50,11 @@
 <br/>
 
 # 💚 Manual
-<업로드 하기>
+[메뉴얼 확인하기](https://github.com/vonvolous/Music_Is_My_Life/blob/main/docs/%EB%A9%94%EB%89%B4%EC%96%BC(1%EC%A1%B0)-1%20(2).pdf)
 
 <br/>
 
 # 💚 최종 발표 자료
-<업로드 하기>
+[최종 발표 자료 확인하기](https://github.com/vonvolous/Music_Is_My_Life/blob/main/docs/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20ppt.pdf)
 
 <br/>
